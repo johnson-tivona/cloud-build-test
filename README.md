@@ -1,2 +1,2 @@
 # cloud-build-test
-testing auto trigger
+testing auto trigger with version
